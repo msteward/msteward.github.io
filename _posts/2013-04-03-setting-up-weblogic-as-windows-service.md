@@ -11,6 +11,7 @@ tags:
 modified_time: '2013-04-03T12:40:37.885-07:00'
 blogger_id: tag:blogger.com,1999:blog-8669861761761330438.post-3070786355487607896
 blogger_orig_url: http://www.michaelsteward.com/2013/04/setting-up-weblogic-as-windows-service.html
+comments: true
 ---
 
 A common requirement when dealing with any application server install on Windows is to set it up as a Windows service.  It's a bad idea to rely on the command line for running the server as it makes it far harder to administer.   

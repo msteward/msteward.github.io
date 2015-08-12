@@ -8,6 +8,7 @@ tags:
 modified_time: '2013-03-01T22:35:58.871-08:00'
 blogger_id: tag:blogger.com,1999:blog-8669861761761330438.post-3221456828469225657
 blogger_orig_url: http://www.michaelsteward.com/2013/03/js-libraries.html
+comments: true
 ---
 
 Below is a list of libraries I've come across which in all my reading and investigation recently into HTML5 / JS which should come in handy.  More of a "remember these for later" post:  

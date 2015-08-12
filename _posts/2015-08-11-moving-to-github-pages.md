@@ -3,6 +3,7 @@ layout: post
 title: Moving to Github Pages
 date: '2015-08-11T18:30:00.001-08:00'
 author: Michael Steward
+comments: true
 ---
 
 I've recently moved this blog over to [GitHub Pages](https://pages.github.com/) as I was finding Blogger too bloated for what I wanted. I was already very familiar with GitHub so the move was relatively straight forward and thanks to Jekyll and the [import tool for Blogger sites](http://import.jekyllrb.com/docs/blogger/) all content came with the move.

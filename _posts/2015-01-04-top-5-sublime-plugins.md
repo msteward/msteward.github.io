@@ -7,6 +7,7 @@ tags:
 modified_time: '2015-01-04T14:38:40.741-08:00'
 blogger_id: tag:blogger.com,1999:blog-8669861761761330438.post-5964155914185422782
 blogger_orig_url: http://www.michaelsteward.com/2015/01/top-5-sublime-plugins.html
+comments: true
 ---
 
 [Sublime Text](http://www.sublimetext.com/) is a hugely popular text editor targeting the developer community. One of the most powerful features is the rich plugin ecosystem which has grown and thrived in recent years.  

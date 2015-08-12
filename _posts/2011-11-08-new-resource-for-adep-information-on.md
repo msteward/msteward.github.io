@@ -12,6 +12,7 @@ tags:
 modified_time: '2012-03-03T11:38:26.061-08:00'
 blogger_id: tag:blogger.com,1999:blog-8669861761761330438.post-4040143822339684564
 blogger_orig_url: http://www.michaelsteward.com/2011/11/new-resource-for-adep-information-on.html
+comments: true
 ---
 
 A new blog has been created by the guys at Adobe to collate all the best posts from around the web which focus on ADEP and other Adobe enterprise products.  Well worth a visit and there is already some great content up there:  

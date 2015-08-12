@@ -7,6 +7,7 @@ tags:
 modified_time: '2012-09-20T09:50:35.782-07:00'
 blogger_id: tag:blogger.com,1999:blog-8669861761761330438.post-6679050090594292713
 blogger_orig_url: http://www.michaelsteward.com/2012/09/weblogic-livecycle-es3-installation.html
+comments: true
 ---
 
 On a recent installation of LiveCycle ES3 on WebLogic I realized that I had started creating a list of "extras" which I often needed to do before the installation would work properly.  These might not always be required and may in fact be buried in the documentation somewhere but here's the list regardless:  

@@ -9,6 +9,7 @@ tags:
 modified_time: '2014-06-21T20:53:28.575-07:00'
 blogger_id: tag:blogger.com,1999:blog-8669861761761330438.post-5320954539491939506
 blogger_orig_url: http://www.michaelsteward.com/2014/06/achieving-consistency.html
+comments: true
 ---
 
 One of the more challenging aspects of managing a team of developers is maintaining standards and style of coding. It may seem trivial but even small things like an individual developer's tab setting can quickly lead to check-in chaos and code review hell.  
