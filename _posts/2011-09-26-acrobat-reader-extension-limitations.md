@@ -9,6 +9,7 @@ tags:
 modified_time: '2012-03-03T11:38:26.142-08:00'
 blogger_id: tag:blogger.com,1999:blog-8669861761761330438.post-8426599331117247731
 blogger_orig_url: http://www.michaelsteward.com/2011/09/acrobat-reader-extension-limitations.html
+comments: true
 ---
 
 I've been doing a piece of work for a customer who wanted a simple form distributed around their organisation for staff to fill in and return.  The only additional requirement was that end users need to be able to save the document whilst filling it in.  Most of my work to date has been using the Adobe LiveCycle product suite and so I naturally turned to Reader Extensions ES2 which would give end users the ability to save documents offline but comes at a rather large premium in terms of licence costs.   

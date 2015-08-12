@@ -9,6 +9,7 @@ tags:
 modified_time: '2014-03-16T17:16:10.031-07:00'
 blogger_id: tag:blogger.com,1999:blog-8669861761761330438.post-5821207768452785065
 blogger_orig_url: http://www.michaelsteward.com/2014/03/the-saga-behind-becoming-canadian.html
+comments: true
 ---
 
 After months of waiting we finally received our Canadian Permanent Residency this week!  We read countless forum posts trying to work out the expected timelines but in the end none of them were particularly accurate.  For anyone going through the same process my advice would be to stay patient and know that it is coming despite a lack of updates; don't read too much into the panicky forum posts you'll find around the net. Also, double and triple check all of your forms.  We had some friends that got forms sent back for being incomplete and that really seems to delay your application.  For reference our time line was as follows:  

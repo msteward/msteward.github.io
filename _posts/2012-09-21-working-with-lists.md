@@ -7,6 +7,7 @@ tags:
 modified_time: '2012-09-29T09:10:08.028-07:00'
 blogger_id: tag:blogger.com,1999:blog-8669861761761330438.post-4538927013763621439
 blogger_orig_url: http://www.michaelsteward.com/2012/09/working-with-lists.html
+comments: true
 ---
 
 This is more a note to remind me in future but when dealing with lists in LiveCycle it can sometimes be a little tricky to just keep adding to a list without creating a loop.  An easy way to do this within one set value step is to use the collection size to determine the index for adding something to the list.   

@@ -8,6 +8,7 @@ tags:
 modified_time: '2012-03-03T11:38:26.103-08:00'
 blogger_id: tag:blogger.com,1999:blog-8669861761761330438.post-5501983904441497584
 blogger_orig_url: http://www.michaelsteward.com/2011/06/relative-vs-absolute-paths-for-form.html
+comments: true
 ---
 
 Here's another gotcha when using LiveCycle Output ES2 that's had me stumped for a few hours.  I designed a form which used a number of fragments which tested fine within designer.  Once deployed to the server I was always getting blank forms.  A quick check of the logs revealed the following warning:  

@@ -7,6 +7,7 @@ tags:
 modified_time: '2012-10-27T15:36:53.232-07:00'
 blogger_id: tag:blogger.com,1999:blog-8669861761761330438.post-1140157534990877809
 blogger_orig_url: http://www.michaelsteward.com/2012/10/ajax-style-file-uploads-using-iframe.html
+comments: true
 ---
 
 I was recently trying to solve a strange issue with Internet Explorer 8 (it's always IE...) on redirecting the user after successfully uploading a file.  Couldn't use HTML5's FileUpload API as we had to be able to support older browsers but what we wanted was AJAX style in place uploads without having to redirect users back to the page after they had uploaded a file.  
