@@ -6,7 +6,7 @@ permalink: /:year/:month/:title.html
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://michaelsteward.com" # the base hostname & protocol for your site
 paginate: 10
-twitter_username: popdog
+twitter_username: misteward
 github_username:  msteward
 
 # Build settings
